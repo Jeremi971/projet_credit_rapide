@@ -13,7 +13,7 @@ Année : 2024
 
 ## Construction d'un modèle de prédiction de prêts.
 
-Pour tester ce projet vos devrez créer un environnement virtuel.
+Pour tester ce projet vos devrez créer un environnement virtuelaj
 installer les librairies inscritent dans le requirements.txt
 ajouter un dossier data à la racine de ce projet, et à l'interieur cliquez sur ce lien https://drive.google.com/drive/folders/1LR1PWPkENxI5aSYA_vADD1yXNPEmnCjY?usp=drive_link ,téléchager le csv et l'y déposer, enfin vous pourrez exécuter le scripte.
 Autrement pour plus de rapiditer vous pourriez importer le script model.ipynb et le csv sur google colab, puis l'exécuter.
